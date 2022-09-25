@@ -1,5 +1,5 @@
 # Apziva-GitHubCase
-This project was created as an apziva internship application case.
+This project was created for Apziva internship application case.
 
 I used elephantsql console to use postgresql in this project. 
 I created cell in persons table for each user. These cells contain the user's name and abilities.
